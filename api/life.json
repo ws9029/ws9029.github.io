@@ -1,0 +1,129 @@
+[
+  {
+    "path":"images/life/1-1-a7fb4f2b9a.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【16店通用】先花店",
+    "service":"11枝红/粉玫 19枝红/粉康 鲜花预订 超值精品爆款礼盒",
+    "groupPrice":"87",
+    "shopPrice":"174",
+    "saled":"98791",
+    "discounts":"",
+    "starsHover":{"width":"92%"},
+    "evaluate":"24354"
+
+  },
+
+  {
+    "path":"images/life/1-2-033c03d88c.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":{"left":"50px"},
+    "title":"【11店通用】宝岛眼镜",
+    "service":"代金券",
+    "groupPrice":"1",
+    "shopPrice":"30",
+    "saled":"313",
+    "discounts":"",
+    "starsHover":{"width":"94%"},
+    "evaluate":"15"
+
+  },
+
+  {
+    "path":"images/life/1-3-ee00b344d3.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【18店通用】同步齿科",
+    "service":"口腔检查",
+    "groupPrice":"1",
+    "shopPrice":"200",
+    "saled":"553",
+    "discounts":"",
+    "starsHover":{"width":"94%"},
+    "evaluate":"46"
+
+  },
+
+  {
+    "path":"images/life/1-4-091e58a530.png",
+    "manyMeal":"",
+    "shortTitle":{"left":"15px"},
+    "title":"【101店通用】博士眼镜",
+    "service":"海昌星眸半年套餐",
+    "groupPrice":"79",
+    "shopPrice":"105",
+    "saled":"8422",
+    "discounts":"",
+    "starsHover":{"width":"84%"},
+    "evaluate":"959"
+
+  },
+
+  {
+    "path":"images/life/2-1-b5b1b4ad3d.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "securities":{"left":"15px"},
+    "title":"【40店通用】美尚美鲜花",
+    "service":"【花香四季】鲜花节日券",
+    "groupPrice":"10",
+    "shopPrice":"15",
+    "saled":"789",
+    "discounts":"",
+    "starsHover":{"width":"98%"},
+    "evaluate":"182"
+
+  },
+
+  {
+    "path":"images/life/2-2-81e910b146.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "securities":"",
+    "title":"【18店通用】正夫口腔",
+    "service":"口腔检查",
+    "groupPrice":"1",
+    "shopPrice":"220",
+    "saled":"74",
+    "discounts":"",
+    "starsHover":{"width":"94%"},
+    "evaluate":"7"
+
+  },
+
+  {
+    "path":"images/life/2-3-4dd3bae68e.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "securities":{"left":"50px"},
+    "title":"【3店通用】【全市免费上门】手机维修  十分到家",
+    "service":"苹果手机上门维修代金券",
+    "groupPrice":"9.9",
+    "shopPrice":"30",
+    "saled":"22",
+    "discounts":"",
+    "starsHover":{"width":"100%"},
+    "evaluate":"3"
+
+  },
+
+  {
+    "path":"images/life/2-4-a2c7f95817.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "securities":"",
+    "title":"【布吉街/东站/天虹】【布吉街/东站/天虹】李腾口腔诊所（多仁牙科）",
+    "service":"儿童窝沟封闭套餐",
+    "groupPrice":"58",
+    "shopPrice":"120",
+    "saled":"3",
+    "discounts":"",
+    "starsHover":{"width":"80%"},
+    "evaluate":"1"
+
+  }
+
+
+
+
+]

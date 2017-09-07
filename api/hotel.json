@@ -1,0 +1,120 @@
+[
+  {
+    "path":"images/hotel/1-1-2bf490e486.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【东西冲】西冲",
+    "service":"标准大床房（鸢尾）钟点房3小时，免费WiFi。标准大床房（鸢尾）钟点房3小时",
+    "groupPrice":"89",
+    "shopPrice":"200",
+    "saled":"0",
+    "discounts":"",
+    "starsHover":"",
+    "evaluate":"暂无"
+
+  },
+  {
+    "path":"images/hotel/1-2-bcfe42a7ca.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【龙华】爱在·鸿运旅馆",
+    "service":"钟点房空调电脑房钟点房4小时，免费WiFi。地理位置优越，交通方便。",
+    "groupPrice":"50",
+    "shopPrice":"70",
+    "saled":"26",
+    "discounts":"",
+    "starsHover":{"width":"94%"},
+    "evaluate":"7"
+
+  },
+  {
+    "path":"images/hotel/1-3-2c4d3f4bda.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【福永】禧逸酒店",
+    "service":"豪华大床房钟点房4小时，免费WiFi。酒店新装开业，靠近桥头地铁站，交通方便，房间设施齐全，欢迎",
+    "groupPrice":"88",
+    "shopPrice":"98",
+    "saled":"34",
+    "discounts":"",
+    "starsHover":{"width":"100%"},
+    "evaluate":"1"
+
+  },
+  {
+    "path":"images/hotel/1-4-853ff18891.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【平湖】维也纳3好酒店",
+    "service":"豪华大床房钟点房4小时，免费WiFi。温馨豪华，短暂休憩的选择",
+    "groupPrice":"88",
+    "shopPrice":"108",
+    "saled":"268",
+    "discounts":"",
+    "starsHover":{"width":"96%"},
+    "evaluate":"19"
+
+  },
+
+  {
+    "path":"images/hotel/2-1-1174c9c28c.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【较场尾】陌上花开海边客栈",
+    "service":"温馨大床房钟点房4小时，免费WiFi。陌上花开海边客栈位于深圳大鹏新区鹏飞路较场尾较，环境优雅，",
+    "groupPrice":"128",
+    "shopPrice":"220",
+    "saled":"1",
+    "discounts":"",
+    "starsHover":"",
+    "evaluate":"暂无"
+
+  },
+
+  {
+    "path":"images/hotel/2-2-a9c291bd97.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【东门】维也纳酒店",
+    "service":"钟点房4小时，高级单人房（评五星可延时至15点退房）/豪华大床房（评五星可延时至15点退房）2选",
+    "groupPrice":"108",
+    "shopPrice":"238",
+    "saled":"520",
+    "discounts":"",
+    "starsHover":{"width":"98%"},
+    "evaluate":"35"
+
+  },
+
+  {
+    "path":"images/hotel/2-3-f10f3747c9.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【宝安中心区】维也纳酒店",
+    "service":"高级单人房钟点房4小时，免费WiFi。原价108高级单人房钟点房现价68",
+    "groupPrice":"120",
+    "shopPrice":"516",
+    "saled":"342",
+    "discounts":"",
+    "starsHover":{"width":"96%"},
+    "evaluate":"59"
+
+  },
+
+  {
+    "path":"images/hotel/2-4-1d974562a0.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【沙井】沙穗酒店",
+    "service":"豪华大床房钟点房3小时，免费WiFi。干净卫生，环境优雅",
+    "groupPrice":"58",
+    "shopPrice":"88",
+    "saled":"89",
+    "discounts":"",
+    "starsHover":{"width":"86%"},
+    "evaluate":"8"
+
+  }
+
+
+]

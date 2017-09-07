@@ -1,0 +1,181 @@
+[
+  {
+    "path":"images/recreation/1-1-8344ee855a.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【龙岗区】欢唱派对量贩式KTV",
+    "service":"12:00-18:00欢唱6小时券",
+    "groupPrice":"9.9",
+    "shopPrice":"98",
+    "saled":"15299",
+    "discounts":"",
+    "starsHover":{"width":"90%"},
+    "evaluate":"1733"
+
+  },
+
+  {
+    "path":"images/recreation/1-2-489e0452c8.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【国贸】K歌王",
+    "service":"单人自助餐券+全周3小时欢唱",
+    "groupPrice":"55",
+    "shopPrice":"75",
+    "saled":"86178",
+    "starsHover":{"width":"78%"},
+    "evaluate":"3771"
+
+  },
+
+  {
+    "path":"images/recreation/1-3-ececa36f41.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【万象城】堂会ktv",
+    "service":"周一至周五欢唱3小时+自助餐单人券",
+    "groupPrice":"58",
+    "shopPrice":"74",
+    "saled":"7462",
+    "discounts":"",
+    "starsHover":{"width":"92%"},
+    "evaluate":"200"
+
+  },
+
+  {
+    "path":"images/recreation/1-4-f8e67f99af.png",
+    "manyMeal":{"left":"15px"} ,
+    "shortTitle":"",
+    "title":"【民治】998量贩式氧吧KTV",
+    "service":"1小时欢唱券",
+    "groupPrice":"9.98",
+    "shopPrice":"88",
+    "saled":"9958",
+    "discounts":"",
+    "starsHover":{"width":"74%"},
+    "evaluate":"434"
+
+  },
+
+  {
+    "path":"images/recreation/2-1-3f602d980f.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【3店通用】百年御足馆",
+    "service":"单人全息足道1次",
+    "groupPrice":"89",
+    "shopPrice":"98",
+    "saled":"111343",
+    "discounts":"",
+    "starsHover":{"width":"88%"},
+    "evaluate":"11608人评价"
+
+  },
+
+  {
+    "path":"images/recreation/2-2-4b86e0f91e.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":{"left":"50px"},
+    "title":"【松岗】高调纯K氧吧自助式KTV",
+    "service":"周一至周五13:00—18:00欢唱5小时",
+    "groupPrice":"10",
+    "shopPrice":"150",
+    "saled":"388",
+    "discounts":"",
+    "starsHover":{"width":"88%"},
+    "evaluate":"18"
+
+  },
+
+  {
+    "path":"images/recreation/2-3-5e9aa8142b.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【沙井】合和大唐足道",
+    "service":"单人专业足疗1次",
+    "groupPrice":"69",
+    "shopPrice":"79",
+    "saled":"21772",
+    "discounts":"",
+    "starsHover":{"width":"88%"},
+    "evaluate":"2557"
+
+  },
+
+  {
+    "path":"images/recreation/2-4-a3cd6775c2.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":{"left":"50px"},
+    "title":"【万象城】冰纷万象滑冰场",
+    "service":"暑假平日单人滑冰礼券",
+    "groupPrice":"69",
+    "shopPrice":"80",
+    "saled":"3526",
+    "discounts":"",
+    "starsHover":{"width":"92%"},
+    "evaluate":"18"
+
+  },
+
+  {
+    "path":"images/recreation/3-1-8dde61811e.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【南山中心区】星歌会量贩式KTV",
+    "service":"00-19：00欢唱5小时+美食套餐",
+    "groupPrice":"18",
+    "shopPrice":"182",
+    "saled":"23703",
+    "discounts":"",
+    "starsHover":{"width":"80%"},
+    "evaluate":"2448"
+
+  },
+
+  {
+    "path":"images/recreation/3-2-d3f7cca517.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":"",
+    "title":"【东门】新巢量贩式KTV",
+    "service":"00  任选3小时欢唱",
+    "groupPrice":"29",
+    "shopPrice":"288",
+    "saled":"1150",
+    "discounts":"",
+    "starsHover":{"width":"90%"},
+    "evaluate":"106"
+
+  },
+
+  {
+    "path":"images/recreation/3-3-208b5496fd.png",
+    "manyMeal":{"left":"15px"},
+    "shortTitle":{"left":"50px"},
+    "title":"【19店通用】游泳池",
+    "service":"单人小孩游泳票",
+    "groupPrice":"13",
+    "shopPrice":"20",
+    "saled":"3435",
+    "discounts":"",
+    "starsHover":{"width":"88%"},
+    "evaluate":"144"
+
+  },
+
+  {
+    "path":"images/recreation/3-4-58daef838c.png",
+    "manyMeal":"",
+    "shortTitle":{"left":"15px"},
+    "title":"【3店通用】自由空间量贩KTV",
+    "service":"周一至周五3小时欢唱+酒水套餐",
+    "groupPrice":"13",
+    "shopPrice":"355",
+    "saled":"10514",
+    "discounts":"",
+    "starsHover":{"width":"84%"},
+    "evaluate":"1645"
+
+  }
+
+]

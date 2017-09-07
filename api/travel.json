@@ -1,0 +1,122 @@
+[
+  {
+    "path":"images/travel/1-1-75a5a7a7ba.png",
+    "manyMeal":"",
+    "shortTitle":{"left":"15px"},
+    "title":"【多区域】南澳西冲1号沙滩",
+    "service":"深圳南澳西冲野战1张",
+    "groupPrice":"7",
+    "shopPrice":"30",
+    "saled":"117",
+    "discounts":"",
+    "starsHover":{"width":"50%"},
+    "evaluate":"6"
+
+  },
+  {
+    "path":"images/travel/1-2-a8b795e398.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【欢乐海岸】欢乐海岸深蓝秘境水秀剧场门票（成人票）",
+    "service":"仅售60.0~70.0元！最高价值80.0元的欢乐海岸深蓝秘境水秀剧场门票（成人票）,请至少当天的20点前购买",
+    "groupPrice":"60",
+    "shopPrice":"80",
+    "saled":"629",
+    "discounts":"",
+    "starsHover":{"width":"82%"},
+    "evaluate":"7"
+
+  },
+
+  {
+    "path":"images/travel/1-3-fd9366d795.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【13店通用】西冲沙滩",
+    "service":"烧烤C餐【免预约】1份",
+    "groupPrice":"24.5",
+    "shopPrice":"46",
+    "saled":"46",
+    "discounts":"立减3元",
+    "starsHover":{"width":"40%"},
+    "evaluate":"5"
+
+  },
+
+  {
+    "path":"images/travel/1-4-f1cdae8380.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【前海】青青世界平日/周末成人票",
+    "service":"仅售75.0元！最高价值80.0元的青青世界平日/周末成人票,请至少提前1天的23点45分前购买",
+    "groupPrice":"75",
+    "shopPrice":"80",
+    "saled":"4768",
+    "discounts":"新客减3元",
+    "starsHover":{"width":"40%"},
+    "evaluate":"160"
+
+  },
+
+  {
+    "path":"images/travel/2-1-457dba0d8c.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【深圳等】南澳西冲帐篷露营+西冲情人岛, 可选双人野战票/双人快艇票/单人快艇票",
+    "service":"南澳西冲帐篷露营+西冲情人岛, 可选双人野战票/双人快艇票/单人快艇票",
+    "groupPrice":"28",
+    "shopPrice":"128",
+    "saled":"1473",
+    "discounts":"",
+    "starsHover":{"width":"80%"},
+    "evaluate":"91"
+
+  },
+
+  {
+    "path":"images/travel/2-2-60f1f6506b.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【深圳出发】大侠谷.东部华侨城1日往返车位+门票（大侠谷.东部华侨城、茶溪谷.东部华侨城等2个景点）",
+    "service":"大侠谷.东部华侨城1日往返车位+门票（大侠谷.东部华侨城、茶溪谷.东部华侨城等2个景点）",
+    "groupPrice":"263",
+    "shopPrice":"308",
+    "saled":"20",
+    "discounts":"",
+    "starsHover":"",
+    "evaluate":"暂无"
+
+  },
+
+  {
+    "path":"images/travel/2-3-7e70e630e0.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【西丽】深圳野生动物园夜场成人票",
+    "service":"仅售27.5元！最高价值90.0元的深圳野生动物园夜场成人票,请至少当天的16点40分前购买",
+    "groupPrice":"27.5",
+    "shopPrice":"90",
+    "saled":"62",
+    "discounts":"",
+    "starsHover":"",
+    "evaluate":"暂无"
+
+  },
+
+  {
+    "path":"images/travel/2-4-b17fc8e2f2.png",
+    "manyMeal":"",
+    "shortTitle":"",
+    "title":"【深圳出发】南澳西冲自助游野战+快艇",
+    "service":"南澳西冲自助游，无限畅玩",
+    "groupPrice":"28",
+    "shopPrice":"128",
+    "saled":"1473",
+    "discounts":"立减10元",
+    "starsHover":{"width":"80%"},
+    "evaluate":"91"
+
+  }
+
+
+]
